@@ -1,68 +1,44 @@
-\# 📊 Poll Results Visualizer (Advanced Analytics Dashboard)
+📊 Poll Results Visualizer (Advanced Analytics Dashboard)
+
+🚀 Overview
 
 
 
-\---
+This project is a professional-grade data analytics dashboard that visualizes poll/survey data using Python and Streamlit. It includes real-time analytics, sentiment analysis, and interactive dashboards.
 
 
 
-\## 🚀 Overview
+✨ Features
 
-This project is a \*\*professional-grade data analytics dashboard\*\* built using Python and Streamlit.  
+🔐 Login system (SaaS-style protection)
 
-It analyzes poll/survey data and provides \*\*interactive insights, real-time analytics, and sentiment analysis\*\*.
+📊 Interactive dashboards (Power BI style)
 
+🧠 Sentiment analysis of feedback
 
+🔄 Real-time data simulation
 
-\---
+📥 CSV export feature
 
+📈 KPI-based analytics cards
 
+🎯 Filter-based exploration
 
-\## ✨ Features
+🧰 Tech Stack
 
-\- 🔐 Login system (SaaS-style protection)
+Python
 
-\- 📊 Interactive dashboards (Power BI style)
+Pandas
 
-\- 🧠 Sentiment analysis of feedback
+Streamlit
 
-\- 🔄 Real-time data simulation
+Plotly
 
-\- 📥 CSV export feature
+TextBlob
 
-\- 📈 KPI-based analytics cards
+NumPy
 
-\- 🎯 Filter-based exploration
-
-
-
-\---
-
-
-
-\## 🧰 Tech Stack
-
-\- Python  
-
-\- Pandas  
-
-\- Streamlit  
-
-\- Plotly  
-
-\- TextBlob  
-
-\- NumPy  
-
-
-
-\---
-
-
-
-\## 📁 Project Structure
-
-```text
+📁 Project Structure
 
 Poll Results Visualize/
 
@@ -98,39 +74,63 @@ python src/generate\_dataset.py
 
 streamlit run src/app.py
 
-📸 Dashboard Screenshots
-
-🏠 Main Dashboard
+📸 Dashboard Preview
 
 
 
-📊 Tool Analysis
+\## 📸 Dashboard Screenshots
 
 
 
-😊 Satisfaction Analysis
+\### 🏠 Main Dashboard
+
+!\[Dashboard](images/1\_dashboard\_home.png)
 
 
 
-🌍 Region Analysis
+\### 📊 Tool Analysis
+
+!\[Tools](images/2\_tool\_bar.png)
 
 
+
+\### 😊 Satisfaction
+
+!\[Satisfaction](images/3\_satisfaction.png)
+
+
+
+\### 🌍 Region Analysis
+
+!\[Region](images/4\_region\_pie.png)
+
+
+
+
+
+KPI Dashboard
+
+Tool Analysis Chart
+
+Sentiment Pie Chart
+
+Filter View
 
 🌐 Live Demo
 
-s
 
-Coming soon 🚀
+
+(Add after deployment)
+
+
 
 https://your-streamlit-app.streamlit.app
 
-
-
 📌 Author
 
+sanskritika
 
 
-Sanskritika
 
-Student | Data Science Enthusiast | Python Developer
+Student Project for Data Science Portfolio my current readme in vs
 
