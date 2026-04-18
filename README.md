@@ -74,10 +74,6 @@ python src/generate\_dataset.py
 
 streamlit run src/app.py
 
-📸 Dashboard Preview
-
-
-
 \## 📸 Dashboard Screenshots
 
 
@@ -94,7 +90,7 @@ streamlit run src/app.py
 
 
 
-\### 😊 Satisfaction
+\### 😊 Satisfaction Analysis
 
 !\[Satisfaction](images/3\_satisfaction.png)
 
@@ -105,14 +101,6 @@ streamlit run src/app.py
 !\[Region](images/4\_region\_pie.png)
 
 
-
-
-
-KPI Dashboard
-
-Tool Analysis Chart
-
-Sentiment Pie Chart
 
 Filter View
 
